@@ -1,0 +1,17 @@
+
+Render URL :
+https://nodejs-filesystems.onrender.com
+
+File creation :
+using POST method to create a file in the required folder
+https://nodejs-filesystems.onrender.com/createFile/myDoc
+
+File retrieve :
+using GET method to retrieve the file
+https://nodejs-filesystems.onrender.com/readFolder/myDoc
+
+Github repository link:
+https://github.com/Rajamouriyan/nodejs-filesystem
+
+Last commit hash ID:
+7be57f4
